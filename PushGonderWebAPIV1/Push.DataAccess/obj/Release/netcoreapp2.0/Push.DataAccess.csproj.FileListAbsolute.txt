@@ -1,0 +1,14 @@
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.DataAccess.deps.json
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.DataAccess.dll
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.DataAccess.pdb
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Core.dll
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Entity.dll
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Core.pdb
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Entity.pdb
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csprojAssemblyReference.cache
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.AssemblyInfoInputs.cache
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.AssemblyInfo.cs
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csproj.CopyComplete
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.dll
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.pdb

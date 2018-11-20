@@ -1,0 +1,9 @@
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\bin\Release\netcoreapp2.0\Push.Core.deps.json
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\bin\Release\netcoreapp2.0\Push.Core.dll
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\bin\Release\netcoreapp2.0\Push.Core.pdb
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Release\netcoreapp2.0\Push.Core.csprojAssemblyReference.cache
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Release\netcoreapp2.0\Push.Core.csproj.CoreCompileInputs.cache
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Release\netcoreapp2.0\Push.Core.AssemblyInfoInputs.cache
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Release\netcoreapp2.0\Push.Core.AssemblyInfo.cs
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Release\netcoreapp2.0\Push.Core.dll
+C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Release\netcoreapp2.0\Push.Core.pdb
