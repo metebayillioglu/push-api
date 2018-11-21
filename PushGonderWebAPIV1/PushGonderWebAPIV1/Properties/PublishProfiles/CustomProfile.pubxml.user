@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftp://185.122.200.115/pushwebapi.kongremobiluygulama.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/21/2018 09:39:15</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/21/2018 09:39:15</publishTime>
+    </File>
+    <File Include="DnsClient.dll">
+      <publishTime>05/01/2017 09:09:22</publishTime>
+    </File>
+    <File Include="FCM.Net.Core.dll">
+      <publishTime>07/04/2017 11:52:08</publishTime>
+    </File>
+    <File Include="MongoDB.Bson.dll">
+      <publishTime>11/10/2018 00:37:54</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.Core.dll">
+      <publishTime>11/10/2018 00:38:02</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.dll">
+      <publishTime>11/10/2018 00:38:10</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.Legacy.dll">
+      <publishTime>11/10/2018 00:38:18</publishTime>
+    </File>
+    <File Include="Push.Business.dll">
+      <publishTime>11/21/2018 12:39:00</publishTime>
+    </File>
+    <File Include="Push.Business.pdb">
+      <publishTime>11/21/2018 12:39:00</publishTime>
+    </File>
+    <File Include="Push.Core.dll">
+      <publishTime>11/21/2018 12:38:54</publishTime>
+    </File>
+    <File Include="Push.Core.pdb">
+      <publishTime>11/21/2018 12:38:54</publishTime>
+    </File>
+    <File Include="Push.DataAccess.dll">
+      <publishTime>11/21/2018 12:38:57</publishTime>
+    </File>
+    <File Include="Push.DataAccess.pdb">
+      <publishTime>11/21/2018 12:38:57</publishTime>
+    </File>
+    <File Include="Push.Entity.dll">
+      <publishTime>11/21/2018 12:38:53</publishTime>
+    </File>
+    <File Include="Push.Entity.pdb">
+      <publishTime>11/21/2018 12:38:53</publishTime>
+    </File>
+    <File Include="PushGonderWebAPIV1.deps.json">
+      <publishTime>11/21/2018 12:39:41</publishTime>
+    </File>
+    <File Include="PushGonderWebAPIV1.dll">
+      <publishTime>11/21/2018 12:39:34</publishTime>
+    </File>
+    <File Include="PushGonderWebAPIV1.pdb">
+      <publishTime>11/21/2018 12:39:34</publishTime>
+    </File>
+    <File Include="PushGonderWebAPIV1.PrecompiledViews.dll">
+      <publishTime>11/21/2018 12:39:39</publishTime>
+    </File>
+    <File Include="PushGonderWebAPIV1.PrecompiledViews.pdb">
+      <publishTime>11/21/2018 12:39:39</publishTime>
+    </File>
+    <File Include="PushGonderWebAPIV1.runtimeconfig.json">
+      <publishTime>11/21/2018 12:39:42</publishTime>
+    </File>
+    <File Include="RabbitMQ.Client.dll">
+      <publishTime>06/18/2018 15:49:02</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/21/2018 12:39:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

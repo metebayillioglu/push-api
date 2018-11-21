@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\meteb\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\meteb\\.nuget\\packages",
+      "C:\\Users\\Mete\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mete\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

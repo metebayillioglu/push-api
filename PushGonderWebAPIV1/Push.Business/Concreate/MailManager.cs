@@ -9,8 +9,8 @@ namespace Push.Business.Concreate
 {
    public class MailManager : IMailService
     {
-        string EmailSender = "***";
-        string EmailPassword = "***";
+        string EmailSender = "info@pushforever.online";
+        string EmailPassword = "mete1905mete";
         public void SendEmail(string body, string subject, string to)
         {
             try

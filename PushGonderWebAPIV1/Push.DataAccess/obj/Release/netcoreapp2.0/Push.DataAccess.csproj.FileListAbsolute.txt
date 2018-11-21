@@ -12,3 +12,17 @@ C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\n
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csproj.CopyComplete
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.dll
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.DataAccess.deps.json
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.DataAccess.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.DataAccess.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Core.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Entity.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Core.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\bin\Release\netcoreapp2.0\Push.Entity.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.AssemblyInfo.cs
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.csproj.CopyComplete
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.DataAccess\obj\Release\netcoreapp2.0\Push.DataAccess.pdb

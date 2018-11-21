@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\meteb\\.nuget\\packages\\": {},
+    "C:\\Users\\Mete\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meteb\\Desktop\\projeler\\PushGonderWebAPIV1\\Push.Core\\Push.Core.csproj",
+      "projectUniqueName": "E:\\Documents\\Visual Studio 2010\\Shared\\GitHub\\push-api\\PushGonderWebAPIV1\\Push.Core\\Push.Core.csproj",
       "projectName": "Push.Core",
-      "projectPath": "C:\\Users\\meteb\\Desktop\\projeler\\PushGonderWebAPIV1\\Push.Core\\Push.Core.csproj",
-      "packagesPath": "C:\\Users\\meteb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meteb\\Desktop\\projeler\\PushGonderWebAPIV1\\Push.Core\\obj\\",
+      "projectPath": "E:\\Documents\\Visual Studio 2010\\Shared\\GitHub\\push-api\\PushGonderWebAPIV1\\Push.Core\\Push.Core.csproj",
+      "packagesPath": "C:\\Users\\Mete\\.nuget\\packages\\",
+      "outputPath": "E:\\Documents\\Visual Studio 2010\\Shared\\GitHub\\push-api\\PushGonderWebAPIV1\\Push.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\meteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mete\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -688,7 +688,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

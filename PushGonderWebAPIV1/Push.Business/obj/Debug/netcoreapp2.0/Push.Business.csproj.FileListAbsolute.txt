@@ -14,3 +14,19 @@ C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Business\bin\Debug\netco
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.csproj.CopyComplete
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.dll
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Business.deps.json
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Business.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Business.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Core.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.DataAccess.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Entity.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.DataAccess.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Entity.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\bin\Debug\netcoreapp2.0\Push.Core.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.AssemblyInfo.cs
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.csproj.CopyComplete
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Business\obj\Debug\netcoreapp2.0\Push.Business.pdb

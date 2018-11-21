@@ -7,3 +7,12 @@ C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreap
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.AssemblyInfo.cs
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.dll
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\bin\Debug\netcoreapp2.0\Push.Core.deps.json
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\bin\Debug\netcoreapp2.0\Push.Core.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\bin\Debug\netcoreapp2.0\Push.Core.pdb
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.AssemblyInfo.cs
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.dll
+E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Core\obj\Debug\netcoreapp2.0\Push.Core.pdb
