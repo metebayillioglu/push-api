@@ -59,7 +59,7 @@ namespace Push.Business.Concreate
                 }
                 StringBuilder html = new StringBuilder();
                 html.Append("Dear " + kul.NameSurname);
-                var key = "UserId=" + kul.NameSurname + "&Date=" + DateTime.Now.AddDays(1);
+                var key = "KullaniciId=" + kul.NameSurname + "&Tarih=" + DateTime.Now.AddDays(1);
                 key = _icryptyoService.Base64Encode(_icryptyoService.Encrypt(key));
                 string url = "http://pushforever.online/email/" + key;
                 html.Append("<a href='" + url + "'>Please click here for reset password</a>");

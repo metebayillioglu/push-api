@@ -7,12 +7,3 @@ C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcore
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.pdb
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.dll
 C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.pdb
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.deps.json
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.dll
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.pdb
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.csproj.CoreCompileInputs.cache
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.AssemblyInfoInputs.cache
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.AssemblyInfo.cs
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.dll
-E:\Documents\Visual Studio 2010\Shared\GitHub\push-api\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.pdb

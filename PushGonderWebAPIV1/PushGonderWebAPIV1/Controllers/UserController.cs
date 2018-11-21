@@ -58,29 +58,29 @@ namespace PushGonderWebAPIV1.Controllers
             {
                 LoginTemp test = new LoginTemp();
                 test.email = model.Email.ToLower();
-                test.password = model.Password;
-                test.returnpassword = "";
-                test.namesurname = "";
+                test.sifre = model.Parola;
+                test.donensifre = "";
+                test.adsoyad = "";
                 _login.AddTemp(test);
             }
             catch(Exception ex)
             {
                 LoginTemp test = new LoginTemp();
                 test.email = ex.ToString();
-                test.password = ex.ToString();
-                test.returnpassword = "";
-                test.namesurname = "";
+                test.sifre = ex.ToString();
+                test.donensifre = "";
+                test.adsoyad = "";
                 _login.AddTemp(test);
 
             }
-            var hashPassword = _iCryptoService.HashPassword(model.Password);
+            var hashPassword = _iCryptoService.HashPassword(model.Parola);
           Users kul = _iUserService.UserControl(model.Email.ToLower(), hashPassword);
 
             LoginTemp test2 = new LoginTemp();
             test2.email = "gelen";
-            test2.password = "gelen";
-            test2.returnpassword = hashPassword;
-            test2.namesurname = "";
+            test2.sifre = "gelen";
+            test2.donensifre = hashPassword;
+            test2.adsoyad = "";
           
             _login.AddTemp(test2);
             if (kul == null)
@@ -113,8 +113,8 @@ namespace PushGonderWebAPIV1.Controllers
 
     }
 
-        [HttpPost("ResetPassword")]
-        public IActionResult ResetPassword(ResetPasswordModel model)
+        [HttpPost("RemovePassword")]
+        public IActionResult RemovePassword(ResetPasswordModel model)
         {
             var css = "";
             var status = "";
@@ -122,7 +122,7 @@ namespace PushGonderWebAPIV1.Controllers
             string cryptotext = _iCryptoService.Decrypt( _iCryptoService.Base64Decode(model.Id));
             string[] bol = cryptotext.Split('&');
             var donenSonuchata = new ReturnGeneralResultModel();
-            if (DateTime.Now > Convert.ToDateTime(bol[1].Replace("Date=","")))
+            if (DateTime.Now > Convert.ToDateTime(bol[1].Replace("Tarih=","")))
             {
                 donenSonuchata.Css = "alert alert-danger";
                 donenSonuchata.Status = "fail";
@@ -132,7 +132,7 @@ namespace PushGonderWebAPIV1.Controllers
             }
 
 
-            int sonuc = _iUserService.UpdatePassword(bol[0].Replace("UserId=",""), _iCryptoService.HashPassword(model.Password));
+            int sonuc = _iUserService.UpdatePassword(bol[0].Replace("KullaniciId=",""), _iCryptoService.HashPassword(model.Password));
 
          
             if (sonuc < 0)
@@ -203,17 +203,17 @@ namespace PushGonderWebAPIV1.Controllers
 
         }
 
-        //[HttpGet]
-        //public IActionResult Get()
-        //{
-        //    List<string> kul = new List<string>();
-        //    DateTime time = DateTime.Now;
-        //    for(int i = 0; i <= 1000; i++)
-        //    {
-        //        Guid id = Guid.NewGuid();
-        //        kul.Add(_iCryptoService.Base64Encode(_iCryptoService.Encrypt(id.ToString())));
-        //    }
-        //    return Ok(kul);
-        //}
+        [HttpGet]
+        public IActionResult Get()
+        {
+            List<string> kul = new List<string>();
+            DateTime time = DateTime.Now;
+            for(int i = 0; i <= 1000; i++)
+            {
+                Guid id = Guid.NewGuid();
+                kul.Add(_iCryptoService.Base64Encode(_iCryptoService.Encrypt(id.ToString())));
+            }
+            return Ok(kul);
+        }
     }
 }

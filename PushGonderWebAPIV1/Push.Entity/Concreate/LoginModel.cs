@@ -8,6 +8,6 @@ namespace Push.Entity.Concreate
     public class LoginModel
     {
         public string Email { get; set; }
-        public string Password { get; set; }
+        public string Parola { get; set; }
     }
 }
