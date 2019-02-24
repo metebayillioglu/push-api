@@ -1,9 +1,0 @@
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.deps.json
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.dll
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.csproj.CoreCompileInputs.cache
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.AssemblyInfoInputs.cache
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.AssemblyInfo.cs
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.csprojAssemblyReference.cache
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\bin\Debug\netcoreapp2.0\Push.Entity.pdb
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.dll
-C:\Users\meteb\Desktop\projeler\PushGonderWebAPIV1\Push.Entity\obj\Debug\netcoreapp2.0\Push.Entity.pdb

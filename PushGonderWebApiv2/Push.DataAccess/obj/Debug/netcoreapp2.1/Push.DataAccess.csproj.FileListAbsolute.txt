@@ -1,0 +1,14 @@
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.DataAccess.deps.json
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.DataAccess.dll
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.DataAccess.pdb
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.Core.dll
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.Entity.dll
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.Core.pdb
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\bin\Debug\netcoreapp2.1\Push.Entity.pdb
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.csprojAssemblyReference.cache
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.AssemblyInfo.cs
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.csproj.CopyComplete
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.dll
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.DataAccess\obj\Debug\netcoreapp2.1\Push.DataAccess.pdb

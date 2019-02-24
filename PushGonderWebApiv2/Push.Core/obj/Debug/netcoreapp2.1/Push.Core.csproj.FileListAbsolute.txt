@@ -1,0 +1,9 @@
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\obj\Debug\netcoreapp2.1\Push.Core.csprojAssemblyReference.cache
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\obj\Debug\netcoreapp2.1\Push.Core.csproj.CoreCompileInputs.cache
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\obj\Debug\netcoreapp2.1\Push.Core.AssemblyInfoInputs.cache
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\obj\Debug\netcoreapp2.1\Push.Core.AssemblyInfo.cs
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\bin\Debug\netcoreapp2.1\Push.Core.deps.json
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\bin\Debug\netcoreapp2.1\Push.Core.dll
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\bin\Debug\netcoreapp2.1\Push.Core.pdb
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\obj\Debug\netcoreapp2.1\Push.Core.dll
+C:\Users\mete\source\repos\PushGonderWebApiv2\Push.Core\obj\Debug\netcoreapp2.1\Push.Core.pdb
